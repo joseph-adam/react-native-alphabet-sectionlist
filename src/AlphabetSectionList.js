@@ -1,5 +1,3 @@
-"use strict";
-
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import ReactNative, { SectionList, StyleSheet, View, NativeModules, Text, PixelRatio } from "react-native";
